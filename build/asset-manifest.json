@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/populationTrends/static/css/main.f4ec79a3.chunk.css",
+    "main.js": "/populationTrends/static/js/main.8cc6c302.chunk.js",
+    "main.js.map": "/populationTrends/static/js/main.8cc6c302.chunk.js.map",
+    "runtime-main.js": "/populationTrends/static/js/runtime-main.175d5bd9.js",
+    "runtime-main.js.map": "/populationTrends/static/js/runtime-main.175d5bd9.js.map",
+    "static/js/2.efcf606c.chunk.js": "/populationTrends/static/js/2.efcf606c.chunk.js",
+    "static/js/2.efcf606c.chunk.js.map": "/populationTrends/static/js/2.efcf606c.chunk.js.map",
+    "index.html": "/populationTrends/index.html",
+    "precache-manifest.1321e6925332a09bfcbf9ec10c61dd47.js": "/populationTrends/precache-manifest.1321e6925332a09bfcbf9ec10c61dd47.js",
+    "service-worker.js": "/populationTrends/service-worker.js",
+    "static/css/main.f4ec79a3.chunk.css.map": "/populationTrends/static/css/main.f4ec79a3.chunk.css.map",
+    "static/js/2.efcf606c.chunk.js.LICENSE.txt": "/populationTrends/static/js/2.efcf606c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.175d5bd9.js",
+    "static/js/2.efcf606c.chunk.js",
+    "static/css/main.f4ec79a3.chunk.css",
+    "static/js/main.8cc6c302.chunk.js"
+  ]
+}
